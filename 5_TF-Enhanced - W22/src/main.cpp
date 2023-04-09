@@ -1,7 +1,5 @@
 /*
 * Jawad Kadri 101147056
-* Noah Arcand Da Silva 101147756
-* Justin Franko 101156681
 * April 11, 2022
 */
 
